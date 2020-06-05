@@ -4,9 +4,11 @@ font-size: 50px;
 }
 p {
     color: chartreuse;
+    font-style: arial;
 }
 a {
     font-size: small;
     font-style: georgia;
     font-size: 20px;
 }
+img {max-width: 300px;}
